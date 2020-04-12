@@ -42,7 +42,7 @@ Here is the R logo
 
 ![sunstar](sunstar.gif)
 
-![sunstar](sunstar.mp4)
+ ![sunstar](sunstar.mp4)
 
 
 ## Insert text with some footnotes
